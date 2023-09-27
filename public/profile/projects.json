@@ -1,0 +1,85 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/p1.png",
+            "title": "Taxi Booking Webpage",
+            "bodyText": "- Taxi webpage made from only HTML, CSS\n -  Not responsive, just a layout.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/21a91a05h6/CapStone-1"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "Webpage",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/p2.png",
+            "title": "Personal Portfolio",
+            "bodyText": "- Portofolio that works on any browser.\n - Customizable, supports dark mode.\n - Used **Bootstrap**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/21a91a05h6/CapStone-2"
+                }
+            ],
+            "tags" : [
+                "Bootstrap",
+                "HTML",
+                "CSS",
+                "Portfolio",
+                "Dark Mode"
+            ]
+        },
+        {
+            "image" : "images/projects/p3.png",
+            "title": "Non Profit Webpage",
+            "bodyText": "- A donation webpage\n - Made using **Bootstrap**, **HTML** and **CSS**. \n - **Responsive**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/21a91a05h6/task1"
+                }
+            ],
+            "tags" : [
+                "Bootstrap",
+                "HTML",
+                "CSS",
+                "Responsive",
+                "Webpage"
+            ]
+        },
+        {
+            "image" : "images/projects/p4.png",
+            "title": "Rock Paper Scissors",
+            "bodyText": "- Rock Paper Scissors game\n - Made purely from **JavaScript**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/21a91a05h6/js_task"
+                }
+            ],
+            "tags" : [
+                "Rock Paper Scissors",
+                "JavaScript",
+                "Bootstrap",
+                "Game"
+            ]
+        },
+        {
+            "image" : "images/projects/p5.png",
+            "title": "Calculator",
+            "bodyText": "- A simple calculator\n - Made using **JavaScript**.",
+            "tags" : [
+                "Calculator",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ]
+        }
+    ]
+}

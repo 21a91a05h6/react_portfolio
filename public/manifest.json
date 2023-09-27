@@ -1,0 +1,15 @@
+{
+  "short_name": "Sri Divya",
+  "name": "Sri Divya - Portfolio",
+  "icons": [
+    {
+      "src": "images/main.webp",
+      "type": "image/webp",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

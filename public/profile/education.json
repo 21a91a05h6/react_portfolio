@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "2021 - 2025",
+            "cardTitle": "B.Tech, Computer Science Engineering",
+            "cardSubtitle":"Aditya Engineering College, Surampalem",
+            "cardDetailedText": "CGPA - 8.8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Tirumula, Rajahmundry",
+            "cardDetailedText": "Percentage - 98%"
+        }
+    ]
+}
